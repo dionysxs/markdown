@@ -35,17 +35,17 @@ Waarvan zou ik nog meer willen weten?
 Niets eigenlijk, alles wat ik wou weten weet ik nu 
 
 
-##diya
+## diya
 
-1- wat heb ik met deze lessen geleerd?
+1. wat heb ik met deze lessen geleerd?
 
 -hoe cmd en github werkt
 
-2- wat wist ik al?
+2. wat wist ik al?
 
 -niks eigenlijk
 
-3- waarvan zou ik nogmeer willen weten?
+3. waarvan zou ik nogmeer willen weten?
 
 -over github meer leren en wat niet persee leren is maar beter te leren navigeren in de cmd
 
